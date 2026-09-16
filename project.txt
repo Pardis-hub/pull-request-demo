@@ -1,2 +1,4 @@
 GitHub Pull Request Demo
 Version 1.0
+This project demonstrates how to create, review, update and merge Pull Requests.
+This update improves the project description and makes it easier to understand the purpose of this project.
